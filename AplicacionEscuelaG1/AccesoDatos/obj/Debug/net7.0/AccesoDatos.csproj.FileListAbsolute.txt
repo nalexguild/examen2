@@ -1,0 +1,28 @@
+C:\Users\Nalex\source\repos\AplicacionEscuelaG1\AccesoDatos\bin\Debug\net7.0\AccesoDatos.deps.json
+C:\Users\Nalex\source\repos\AplicacionEscuelaG1\AccesoDatos\bin\Debug\net7.0\AccesoDatos.runtimeconfig.json
+C:\Users\Nalex\source\repos\AplicacionEscuelaG1\AccesoDatos\bin\Debug\net7.0\AccesoDatos.dll
+C:\Users\Nalex\source\repos\AplicacionEscuelaG1\AccesoDatos\bin\Debug\net7.0\AccesoDatos.pdb
+C:\Users\Nalex\source\repos\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Nalex\source\repos\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nalex\source\repos\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Nalex\source\repos\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Nalex\source\repos\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Nalex\source\repos\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.dll
+C:\Users\Nalex\source\repos\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\refint\AccesoDatos.dll
+C:\Users\Nalex\source\repos\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.pdb
+C:\Users\Nalex\source\repos\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\Nalex\source\repos\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\ref\AccesoDatos.dll
+C:\Users\Nalex\OneDrive\Escritorio\BACKUP EXAMEN\AplicacionEscuelaG1\AccesoDatos\bin\Debug\net7.0\AccesoDatos.deps.json
+C:\Users\Nalex\OneDrive\Escritorio\BACKUP EXAMEN\AplicacionEscuelaG1\AccesoDatos\bin\Debug\net7.0\AccesoDatos.runtimeconfig.json
+C:\Users\Nalex\OneDrive\Escritorio\BACKUP EXAMEN\AplicacionEscuelaG1\AccesoDatos\bin\Debug\net7.0\AccesoDatos.dll
+C:\Users\Nalex\OneDrive\Escritorio\BACKUP EXAMEN\AplicacionEscuelaG1\AccesoDatos\bin\Debug\net7.0\AccesoDatos.pdb
+C:\Users\Nalex\OneDrive\Escritorio\BACKUP EXAMEN\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Nalex\OneDrive\Escritorio\BACKUP EXAMEN\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nalex\OneDrive\Escritorio\BACKUP EXAMEN\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Nalex\OneDrive\Escritorio\BACKUP EXAMEN\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Nalex\OneDrive\Escritorio\BACKUP EXAMEN\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Nalex\OneDrive\Escritorio\BACKUP EXAMEN\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.dll
+C:\Users\Nalex\OneDrive\Escritorio\BACKUP EXAMEN\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\refint\AccesoDatos.dll
+C:\Users\Nalex\OneDrive\Escritorio\BACKUP EXAMEN\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.pdb
+C:\Users\Nalex\OneDrive\Escritorio\BACKUP EXAMEN\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\Nalex\OneDrive\Escritorio\BACKUP EXAMEN\AplicacionEscuelaG1\AccesoDatos\obj\Debug\net7.0\ref\AccesoDatos.dll
